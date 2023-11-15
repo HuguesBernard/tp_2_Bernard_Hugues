@@ -20,7 +20,7 @@ for ($i = 1; $i <= $num_addresses; $i++) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Confirmation</title>
+    <title>Confirmation success</title>
 </head>
 <body>
     <div class="container">
